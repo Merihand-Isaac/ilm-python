@@ -30,3 +30,5 @@ def Cam_start() :
             cv2.imshow('corp.MeriHand ver.Prototype - by Isaac', cv2.flip(image, 1))
             Camoff()
     Cam.release()
+
+    #test-test 
